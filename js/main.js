@@ -1,19 +1,19 @@
 let images = [
-  './images/1.gif',
-  './images/2.gif',
-  './images/3.gif',
-  './images/4.gif',
-  './images/5.gif',
-  './images/6.gif',
-  './images/1.gif',
-  './images/2.gif',
-  './images/3.gif',
-  './images/4.gif',
-  './images/5.gif',
-  './images/6.gif'
+  '../images/1.gif',
+  '../images/2.gif',
+  '../images/3.gif',
+  '../images/4.gif',
+  '../images/5.gif',
+  '../images/6.gif',
+  '../images/1.gif',
+  '../images/2.gif',
+  '../images/3.gif',
+  '../images/4.gif',
+  '../images/5.gif',
+  '../images/6.gif'
 ];
 
-const moon = './images/Moon.gif';
+const moon = '../images/Moon.gif';
 let pic1 = null;
 let pic2 = null;
 let match = 0;
